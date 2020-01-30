@@ -1,1 +1,2 @@
-# More-Rectangles-Individual-Libraries-
+# collisionAlgorithm
+Algorithm to detect collision between two objects
